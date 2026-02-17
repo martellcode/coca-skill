@@ -5,7 +5,8 @@ A Claude Code skill that helps you build perfect specs using the COCA framework 
 ## Installation
 
 ```bash
-/install everydev1618/coca-skill
+/plugin marketplace add everydev1618/coca-skill
+/plugin install coca@everydev1618
 ```
 
 ## Usage
